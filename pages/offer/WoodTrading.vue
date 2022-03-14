@@ -1,0 +1,72 @@
+<template>
+  <div>
+    <nav-menu></nav-menu>
+    <div>
+      <h1 class="my-header">Handel drewnem</h1>
+      <div class="content">
+        <br />Oferujemy drewno iglaste w wymiarach od 2.5m do 14m. <br />
+
+        Posiadamy w ofercie cenne gatunki drewna takie jak: <br />
+
+        <div style="text-align: center; width: 100px">
+          <ul style="text-align: left">
+            <li>Dąb</li>
+            <li>Buk</li>
+            <li>Modrzew</li>
+            <li>Jesion</li>
+            <li>Jawor</li>
+            <li>Olcha</li>
+            <li>Cedr syberyjski</li>
+          </ul>
+        </div>
+
+        <br />
+        Cena jest ustalana indywidualnie, na podstawie ilości zamówionego
+        asortymentu.
+        <br />
+        Dla stałych klientów gwarancja dostawy każdej ilości drewna w ciągu
+        całego roku. <br />
+        <br />
+        Handlujemy drewnem wyłącznie posiadającym certyfikaty PEFC oraz
+        FSC&reg;.
+      </div>
+    </div>
+    <the-footer></the-footer>
+  </div>
+</template>
+
+<script>
+import NavMenu from "../../components/nav/NavMenu.vue";
+import TheFooter from "../../components/TheFooter.vue";
+
+export default {
+  components: {
+    NavMenu,
+    TheFooter,
+  },
+};
+</script>
+
+<style>
+.my-header {
+  margin-top: 3rem;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.content {
+  text-align: left;
+  max-width: 30%;
+  margin: auto;
+  margin-top: 2rem;
+  line-height: 1.5;
+  margin-bottom: 5rem;
+  font-size: 1.15rem;
+}
+
+@media (max-width: 1028px) {
+  .content {
+    max-width: 90%;
+  }
+}
+</style>

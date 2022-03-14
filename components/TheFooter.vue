@@ -1,0 +1,34 @@
+<template>
+  <div class="row, myrow">
+    <footer class="col the-footer">
+      &copy; 2022 Forest Industry S.A. All rights reserved.
+      <a href="https://www.facebook.com/Forest-Industry-SA-108708038192828" target="_blank"><i class="fa fa-facebook-square" style="color: #4267B2;"></i></a>
+      
+    </footer>
+  </div>
+</template>
+
+<style>
+.the-footer {
+  position: fixed !important;
+  bottom: 0;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+  font-weight: bold;
+  width: 100%;
+  font-size: 1rem;
+  background: rgb(136, 158, 129);
+  padding: 0.5rem;
+}
+
+i {
+  font-size: 1.1rem !important;
+  background-color: inherit;
+  margin-left: 0.5%;
+}
+
+.myrow {
+  margin-left: 0 !important;
+}
+
+</style>
