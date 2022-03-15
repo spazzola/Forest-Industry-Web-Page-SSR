@@ -81,14 +81,13 @@ nav {
 }
 
 .nav-link {
-    font-size: 1.2rem;
     color: rgb(136, 158, 129);
     font-weight: bold;
     font-family: 'Libre Baskerville', sans-serif;
 }
 
-a {
-  font-size: 1.4rem !important;
+a, span {
+  font-size: 1.4rem;
   color: rgba(0, 0, 0, 0.5);
 }
 
@@ -110,20 +109,26 @@ a:hover {
   color: brown;
 }
 
+@media only screen and (min-width: 1467px) and (max-width: 1665px) {
+  a, span {
+    font-size: 1.2rem !important;
+  }
+}
+
 @media only screen and (min-width: 1285px) and (max-width: 1466px) {
-  .nav-link {
+  a, span {
     font-size: 1rem !important;
   }
 }
 
 @media only screen and (min-width: 1029px) and (max-width: 1284px) {
-  .nav-link {
+  a, span {
     font-size: 0.9rem !important;
   }
 }
 
 @media only screen and (max-width: 1028px) {
-  nav {
+  a, span {
     margin: 1rem 0 1rem 0 !important;
   }
 }
