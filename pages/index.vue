@@ -1,5 +1,7 @@
 <template>
+  <div class="container-fluid">
     <about-company />
+  </div>
 </template>
 
 <script>
