@@ -4,11 +4,11 @@
       <img src="../../static/logo.png" class="logo" alt="logo" />
     </div>
 
-    <div class="col-lg-6 col-md-6 center"> 
+    <div class="col-lg-4 col-md-6 center"> 
       <img src="../../static/header.png" class="header" alt="header"/>
     </div>
 
-    <div class="col-4 nav-menu center">
+    <div class="col-6 nav-menu center">
         <nav-bar></nav-bar>
     </div>
   </div>

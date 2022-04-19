@@ -52,6 +52,9 @@
         <b-nav-item>
           <NuxtLink to="/thecontact" active-class="active">KONTAKT</NuxtLink>
         </b-nav-item>
+        <b-nav-item>
+          <NuxtLink to="/blog" active-class="active">BLOG</NuxtLink>
+        </b-nav-item>
       </b-navbar-nav>
 
     </b-collapse>
