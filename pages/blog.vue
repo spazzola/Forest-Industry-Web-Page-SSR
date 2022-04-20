@@ -1,25 +1,30 @@
 <template>
-<div>
+  <div>
     <nav-menu></nav-menu>
 
-  <div class="content">
-  
-  <h1>Blog</h1>
-  <ul class="post_container">
-    <li class="post">
-      <div class="post_thumbnail">
-        <img src="../static/domzbali.jpg" alt="domy z bali">
-      </div>
-      <p class="post_title">Dom z bali — dlaczego stał się tak popularny?</p>
-      <p class="post_excerpt">Domy z bali to ciekawa propozycja architektoniczna i choć kojarzy się z zabudowaniami na wsiach oraz w rejonach górskich...</p>
-      <a href="/blogs/domyzbali">Czytaj więcej</a>
-    </li>
-
-     
-  </ul>
-  </div>
-    <the-footer></the-footer>
+    <div
+      class="content"
+      style="display: flex; flex-direction: column; align-items: center"
+    >
+      <h1>Blog</h1>
+      <ul class="post_container">
+        <li class="post">
+          <div class="post_thumbnail">
+            <img src="../static/domzbali.jpg" alt="domy z bali" />
+          </div>
+          <p class="post_title">
+            Dom z bali — dlaczego stał się tak popularny?
+          </p>
+          <p class="post_excerpt">
+            Domy z bali to ciekawa propozycja architektoniczna i choć kojarzy
+            się z zabudowaniami na wsiach oraz w rejonach górskich...
+          </p>
+          <a href="/blogs/domyzbali">Czytaj więcej</a>
+        </li>
+      </ul>
     </div>
+    <the-footer></the-footer>
+  </div>
 </template>
 
 <script>
@@ -40,12 +45,11 @@ export default {
 </script>
 
 <style>
-
 .post_container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  max-width: 50%;
+  width: 50%;
   list-style-type: none;
   margin-top: 40px;
   flex-wrap: wrap;
@@ -55,7 +59,8 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-   width: 300px;
+  width: 300px;
+  margin: 0 10px 30px;
 }
 
 .post_thumbnail {
@@ -76,21 +81,22 @@ export default {
   font-size: 16px;
 }
 
-.post_title, .post_excerpt {
+.post_title,
+.post_excerpt {
   text-align: left;
 }
 
 .content {
-  text-align: center;
-  max-width: 100%;
+  text-align: left;
+  max-width: 30%;
   margin: auto;
   margin-top: 2rem;
   line-height: 1.5;
   margin-bottom: 5rem;
   font-size: 1.15rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+}
+
+body {
+  overflow-x: hidden;
 }
 </style>
