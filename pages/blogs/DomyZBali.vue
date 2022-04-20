@@ -16,8 +16,7 @@
  <p style="text-align: justify"> Dom z bali stanowi doskonałą alternatywę dla technologii murowanej. Jeszcze kilka lat temu kojarzył się on z domkiem letniskowym — klimatycznym miejscem do wypoczynku na łonie natury. Dziś dzięki swojemu urokowi i zaletom, jakie posiada, sprawia, że ludzie coraz chętniej decydują się na jego budowę. Całoroczne domy z bali można spotkać w wielu regionach naszego kraju.</p>
 
 
-</p>
-</p>
+
 </div>
     <the-footer></the-footer>
   </div>
