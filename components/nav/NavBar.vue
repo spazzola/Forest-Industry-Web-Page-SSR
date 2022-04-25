@@ -43,7 +43,6 @@ nav {
     margin-left: 10%;
 }
 
-
 .dropdown-menu {
   background-color: rgb(219, 233, 183);
 }
@@ -51,6 +50,10 @@ nav {
 .navbar {
   padding: 0;
   
+}
+
+button {
+  border: 2px solid rgb(90, 98, 73) !important;
 }
 
 .nav-link {
