@@ -1,34 +1,4 @@
 <template>
-
-<!-- <nav class="navbar navbar-expand-xl navbar-light ml-auto">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse ml-auto" id="navbarTogglerDemo01">
-    <ul class="navbar-nav mx-auto text-md-center text-left">
-      <li class="nav-item">
-        <nuxt-link class="nav-link" active-class="active" to="/aboutcompany">O FIRMIE</nuxt-link>
-      </li>
-      <li class="nav-item dropdown">
-        <router-link class="nav-link dropdown-toggle" active-class="router-link-active" to="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          OFERTA
-        </router-link>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <nuxt-link class="dropdown-item" active-class="active" to="../../pages/offer/WoodTrading.vue">Handel drewnem</nuxt-link>
-          <nuxt-link class="dropdown-item" active-class="active" to="../../pages/offer/LogHomes.vue">Domy z bali</nuxt-link>
-          <nuxt-link class="dropdown-item" active-class="active" to="../../pages/offer/TheHunting.vue">Polowania w Rosji</nuxt-link>
-          <nuxt-link class="dropdown-item" active-class="active" to="../../pages/offer/TheProgramming.vue">Strony internetowe / aplikacje</nuxt-link>
-        </div>
-      </li>
-      <li class="nav-item">
-        <nuxt-link class="nav-link" active-class="active" to="/thegallery">GALERIA</nuxt-link>
-      </li>
-      <li class="nav-item">
-        <nuxt-link class="nav-link" active-class="active" to="/thecontact">KONTAKT</nuxt-link>
-      </li>
-    </ul>
-  </div>
-</nav> -->
 <div>
   <b-navbar toggleable="lg">
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -43,7 +13,7 @@
           <b-dropdown-item href="../../offer/woodtrading">Handel drewnem</b-dropdown-item>
           <b-dropdown-item href="../../offer/loghomes">Domy z bali</b-dropdown-item>
           <b-dropdown-item href="../../offer/thehunting">Polowania w Rosji</b-dropdown-item>
-          <b-dropdown-item href="../../offer/theprogramming">Strony iternetowe / aplikacje</b-dropdown-item>
+          <b-dropdown-item href="../../offer/theprogramming">Strony internetowe / aplikacje</b-dropdown-item>
         </b-nav-item-dropdown>
 
         <b-nav-item>
