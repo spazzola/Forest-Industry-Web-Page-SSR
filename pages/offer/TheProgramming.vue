@@ -36,6 +36,11 @@ import NavMenu from "../../components/nav/NavMenu.vue";
 import TheFooter from "../../components/TheFooter.vue";
 
 export default {
+  head() {
+    return {
+      title: "Oprogramowania | Forest Industry S.A.",
+    };
+  },
   components: {
     NavMenu,
     TheFooter,
