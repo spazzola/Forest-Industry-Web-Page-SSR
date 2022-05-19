@@ -55,17 +55,19 @@
           pochwalić się znacznym rozwojem, gdyż ludzie w całej Europie
           wykorzystują drewno na elewację i do remontów. Aby usprawnić sprzedaż
           drewna tartacznego, uruchomiliśmy kilka składnic za granicami kraju —
-          sprowadzamy m.in. drewno tartaczne z Czech oraz Słowacji. Ceny drewna
-          w Czechach są znacznie niższe niż w innych krajach, dlatego też handel
-          jest bardziej opłacalny.
+          sprowadzamy m.in. drewno tartaczne z Czech, Kazachstanu oraz Słowacji.
+          Ceny drewna w Czechach są znacznie niższe niż w innych krajach,
+          dlatego też handel jest bardziej opłacalny. A dodatkowo sprowadzanie
+          drewna z Kazachstanu czy Słowacji pozwala zachować ciągły zapas
+          materiałów, bez względu na wielkość zamówienia.
         </p>
         <p style="text-align: justify">
           Jeśli więc planują Państwo wykonać elewację bądź taras drewniany z
           modrzewia syberyjskiego, świerku, sosny czy innego cennego gatunku
           drewna, zachęcamy do kontaktu. Dysponujemy takimi materiałami jak
           kantówka, tarcica czy deska gładka — z nami mogą Państwo kupić drewno
-          z Czech, ze Śląska i Słowacji oraz wykorzystać je do różnych celów,
-          np. przeznaczyć na elegancką i trwałą elewację.
+          z Czech, Kazachstanu, ze Śląska i Słowacji oraz wykorzystać je do
+          różnych celów, np. przeznaczyć na elegancką i trwałą elewację.
         </p>
 
         Handlujemy drewnem wyłącznie posiadającym certyfikaty PEFC oraz
