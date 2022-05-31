@@ -21,6 +21,18 @@
           </p>
           <a href="/blogs/domyzbali">Czytaj więcej</a>
         </li>
+        <li class="post">
+          <div class="post_thumbnail">
+            <img src="../static/drewnogatunki.jpg" alt="kłody drewna sosnowego" />
+          </div>
+          <p class="post_title">
+            Drewno i jego gatunki — co można z niego wykonać?
+          </p>
+          <p class="post_excerpt">
+            Drewno towarzyszy człowiekowi od niepamiętnych czasów. Pochodzenie, sposób pozyskania...
+          </p>
+          <a href="/blogs/drewnoijegogatunki">Czytaj więcej</a>
+        </li>
       </ul>
     </div>
     <the-footer></the-footer>
@@ -48,11 +60,12 @@ export default {
 .post_container {
   display: flex;
   justify-content: center;
-  align-items: center;
-  width: 50%;
+  align-items: flex-start;
+  width: 100%;
   list-style-type: none;
   margin-top: 40px;
   flex-wrap: wrap;
+  
 }
 
 .post {
@@ -65,10 +78,12 @@ export default {
 
 .post_thumbnail {
   width: 300px;
+height: 250px;
 }
 
 .post_thumbnail img {
   width: 100%;
+  height: 100%;
 }
 
 .post_title {
@@ -88,7 +103,7 @@ export default {
 
 .content {
   text-align: left;
-  max-width: 30%;
+  max-width: 100%;
   margin: auto;
   margin-top: 2rem;
   line-height: 1.5;
