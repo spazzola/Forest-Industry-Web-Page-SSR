@@ -8,18 +8,17 @@
     >
       <h1>Blog</h1>
       <ul class="post_container">
-        <li class="post">
+       <li class="post">
           <div class="post_thumbnail">
-            <img src="../static/domzbali.jpg" alt="domy z bali" />
+            <img src="../static/modrzew.jpg" alt="modrzew syberyjski" />
           </div>
           <p class="post_title">
-            Dom z bali — dlaczego stał się tak popularny?
+            Nauka nie pójdzie w las — charakterystyka modrzewia syberyjskiego
           </p>
           <p class="post_excerpt">
-            Domy z bali to ciekawa propozycja architektoniczna i choć kojarzy
-            się z zabudowaniami na wsiach oraz w rejonach górskich...
+            Modrzew syberyjski od lat podbija serca osób aranżujących własny taras czy altankę. Jego popularność wzrosła, kiedy architekci zaczęli wykorzystywać...
           </p>
-          <a href="/blogs/domyzbali">Czytaj więcej</a>
+          <a href="/blogs/CharakterystykaModrzewiaSyberyjskiego">Czytaj więcej</a>
         </li>
         <li class="post">
           <div class="post_thumbnail">
@@ -33,6 +32,22 @@
           </p>
           <a href="/blogs/drewnoijegogatunki">Czytaj więcej</a>
         </li>
+
+        <li class="post">
+          <div class="post_thumbnail">
+            <img src="../static/domzbali.jpg" alt="domy z bali" />
+          </div>
+          <p class="post_title">
+            Dom z bali — dlaczego stał się tak popularny?
+          </p>
+          <p class="post_excerpt">
+            Domy z bali to ciekawa propozycja architektoniczna i choć kojarzy
+            się z zabudowaniami na wsiach oraz w rejonach górskich...
+          </p>
+          <a href="/blogs/domyzbali">Czytaj więcej</a>
+        </li>
+       
+        
       </ul>
     </div>
     <the-footer></the-footer>
