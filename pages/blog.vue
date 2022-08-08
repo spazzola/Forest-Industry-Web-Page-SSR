@@ -7,7 +7,22 @@
       style="display: flex; flex-direction: column; align-items: center"
     >
       <h1>Blog</h1>
+
       <ul class="post_container">
+          <li class="post">
+          <div class="post_thumbnail">
+            <img src="../static/swierksyb.jpg" alt="Nauka nie pójdzie w las — charakterystyka świerka syberyjskiego" />
+          </div>
+          <p class="post_title">
+            Nauka nie pójdzie w las — charakterystyka świerka syberyjskiego
+          </p>
+          <p class="post_excerpt">
+            Domy z bali to ciekawa propozycja architektoniczna i choć kojarzy
+            się z zabudowaniami na wsiach oraz w rejonach górskich...
+          </p>
+          <a href="/blogs/Charakterystykaswierkasyberyjskiego">Czytaj więcej</a>
+        </li>
+
        <li class="post">
           <div class="post_thumbnail">
             <img src="../static/modrzew.jpg" alt="modrzew syberyjski" />
