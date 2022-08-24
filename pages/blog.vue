@@ -11,6 +11,22 @@
       <ul class="post_container">
           <li class="post">
           <div class="post_thumbnail">
+            <img src="../static/cedrsyb1.jpg" alt="Nauka nie pójdzie w las — charakterystyka cedru syberyjskiego" />
+          </div>
+          <p class="post_title">
+            Nauka nie pójdzie w las — charakterystyka cedru syberyjskiego
+          </p>
+          <p class="post_excerpt">
+            Monumentalne drzewo zwane uzdrowicielem i żywicielem. Przed laty mówiono o nim jako o królu tajgi, który w cieniu swych...
+          </p>
+          <a href="/blogs/CharakterystykaCedruSyberyjskiego">Czytaj więcej</a>
+        </li>
+
+
+
+
+          <li class="post">
+          <div class="post_thumbnail">
             <img src="../static/swierksyb.jpg" alt="Nauka nie pójdzie w las — charakterystyka świerka syberyjskiego" />
           </div>
           <p class="post_title">
