@@ -11,9 +11,10 @@
 
         <b-nav-item-dropdown text="OFERTA" active-class="active">
           <b-dropdown-item href="../../offer/woodtrading">Handel drewnem</b-dropdown-item>
+          <b-dropdown-item href="../../offer/coaltrading">Handel węglem</b-dropdown-item>
           <b-dropdown-item href="../../offer/loghomes">Domy z bali</b-dropdown-item>
-          <b-dropdown-item href="../../offer/thehunting">Polowania w Rosji</b-dropdown-item>
-          <b-dropdown-item href="../../offer/theprogramming">Strony internetowe / aplikacje</b-dropdown-item>
+          <!-- <b-dropdown-item href="../../offer/thehunting">Polowania w Rosji</b-dropdown-item> -->
+          <!-- <b-dropdown-item href="../../offer/theprogramming">Strony internetowe / aplikacje</b-dropdown-item> -->
         </b-nav-item-dropdown>
 
         <b-nav-item>

@@ -4,21 +4,15 @@
     <div>
       <h1>O firmie</h1>
       <div class="content">
-        Jako firma należąca do sektora gospodarki leśnej, na rynku polskim
-        działamy od 1997 roku. Budowanie pozycji naszej firmy rozpoczęliśmy pod
-        nazwą Gospodarka Leśna S.A. Dziś jesteśmy znani jako Forest Industry
-        S.A. Zmiana nazwy to dla nas symboliczny moment, który zwieńczył wejście
-        Forest Industry na rynek europejski.
-        <br />
-        <br />
         Tworząc naszą historię silny nacisk stawiamy na budowaniu grupy
         zaufanych klientów. Dobra renoma oraz zadowolenie klientów, są dla nas
         podstawą własciwie funkcjonującego przedsiębiorstwa.
         <br />
         <br />
         Zajmujemy się wszelkimi pracami związanymi z gospodarką leśną, handlem
-        drewna oraz budową domów z bali na terenie Europy. Nasze składnice
-        znajdują się w Rosji - Republika XAKASJI, Czechach oraz na Słowacji.
+        drewna oraz budową domów z bali. Dodatkowo oferujemy sprzedaż węgla typu ekogroszek.
+        Nasze składnice
+        znajdują się na terenie Europy oraz Azji.
         <br />
         Dążymy do ciągłego rozwoju. Nie boimy się nowych wyzwań, ani
         innowacyjnych technologii. Dlatego w naszej ofercie znajdą Państwo
