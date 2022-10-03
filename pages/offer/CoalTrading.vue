@@ -67,12 +67,12 @@ export default {
   head() {
     return {
       title:
-        "Handel drewnem syberyjskim: świerk, sosna i inne | Forest Industry S.A.",
+        "Węgiel ekogroszek | Forest Industry S.A.",
       meta: [
         {
           name: "description",
           content:
-            "Kup cenne gatunki drewna w atrakcyjnej cenie! W naszej ofercie świerk, sosna, modrzew i wiele więcej. Sprzedajemy drewno konstrukcyjne i tarasowe.",
+            "Kup najwyszej jakości węgiel typu ekogroszek w atrakcyjnej cenie!",
         },
       ],
     };

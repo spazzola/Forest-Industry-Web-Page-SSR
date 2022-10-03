@@ -14,7 +14,7 @@
           <b-dropdown-item href="../../offer/coaltrading">Handel węglem</b-dropdown-item>
           <b-dropdown-item href="../../offer/loghomes">Domy z bali</b-dropdown-item>
           <!-- <b-dropdown-item href="../../offer/thehunting">Polowania w Rosji</b-dropdown-item> -->
-          <!-- <b-dropdown-item href="../../offer/theprogramming">Strony internetowe / aplikacje</b-dropdown-item> -->
+          <b-dropdown-item href="../../offer/theprogramming">Strony internetowe / aplikacje</b-dropdown-item>
         </b-nav-item-dropdown>
 
         <b-nav-item>
