@@ -68,7 +68,7 @@ import NavMenu from "../../components/nav/NavMenu.vue";
 export default {
   head() {
     return {
-      title: "Węgiel ekogroszek | Forest Industry S.A.",
+      title: "Oprogramowania | Forest Industry S.A.",
       meta: [
         {
           name: "description",
