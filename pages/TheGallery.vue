@@ -45,6 +45,33 @@
                   ><img class="img-fluid" src="../static/7.jpg"
                 /></a>
               </div>
+              <div class="col-lg-3 col-md-4 item">
+                <a href="#img_8" data-lightbox="photos"
+                  ><img class="img-fluid" src="../static/budowa1.jpg"
+                /></a>
+              </div>
+            </div>
+            <div class="row photos">
+              <div class="col-lg-3 col-md-4 item">
+                <a href="#img_9" data-lightbox="photos"
+                  ><img class="img-fluid" src="../static/budowa2.jpg"
+                /></a>
+              </div>
+              <div class="col-lg-3 col-md-4 item">
+                <a href="#img_10" data-lightbox="photos"
+                  ><img class="img-fluid" src="../static/budowa3.jpg"
+                /></a>
+              </div>
+              <div class="col-lg-3 col-md-4 item">
+                <a href="#img_11" data-lightbox="photos"
+                  ><img class="img-fluid" src="../static/budowa4.jpg"
+                /></a>
+              </div>
+              <div class="col-lg-3 col-md-4 item">
+                <a href="#img_12" data-lightbox="photos"
+                  ><img class="img-fluid" src="../static/budowa6.jpg"
+                /></a>
+              </div>
             </div>
             <a href="#_1" class="lightbox trans" id="img_1"
               ><img src="../static/1.jpg"
@@ -64,8 +91,23 @@
             <a href="#_6" class="lightbox trans" id="img_6"
               ><img src="../static/6.jpg"
             /></a>
-            <a href="#_6" class="lightbox trans" id="img_7"
+            <a href="#_7" class="lightbox trans" id="img_7"
               ><img src="../static/7.jpg"
+            /></a>
+            <a href="#_8" class="lightbox trans" id="img_8"
+              ><img src="../static/budowa1.jpg"
+            /></a>
+            <a href="#_9" class="lightbox trans" id="img_9"
+              ><img src="../static/budowa2.jpg"
+            /></a>
+            <a href="#_10" class="lightbox trans" id="img_10"
+              ><img src="../static/budowa3.jpg"
+            /></a>
+            <a href="#_11" class="lightbox trans" id="img_11"
+              ><img src="../static/budowa4.jpg"
+            /></a>
+            <a href="#_12" class="lightbox trans" id="img_12"
+              ><img src="../static/budowa6.jpg"
             /></a>
           </div>
         </div>
