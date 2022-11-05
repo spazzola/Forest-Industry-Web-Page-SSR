@@ -13,16 +13,7 @@
       </div>
 
       <div class="contactTile">
-        <h2>Handel drewnem</h2>
-        Dalibor Leher <br />
-        tel.: +48 797 860 707 <br />
-        tel.: +420 602 139 114 <br />
-        biuro@forestindustrysa.pl <br />
-        <br />
-      </div>
-
-      <div class="contactTile">
-        <h2>Handel węglem</h2>
+        <h2>Księgowość</h2>
         Bartosz Wisiński <br />
         tel.: +48 505 605 469 <br />
         biuro@forestindustrysa.pl <br />
