@@ -13,6 +13,14 @@
       </div>
 
       <div class="contactTile">
+        <h2>Handel drewnem</h2>
+        Bartek Witulski <br />
+        tel.: +48 577 960 204 <br />
+        biuro@forestindustrysa.pl <br />
+        <br />
+      </div>
+
+      <div class="contactTile">
         <h2>Księgowość</h2>
         Bartosz Wisiński <br />
         tel.: +48 505 605 469 <br />
