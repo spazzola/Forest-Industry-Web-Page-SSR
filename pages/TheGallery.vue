@@ -34,22 +34,22 @@
             <div class="row photos">
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_23" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_11.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_11.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_17" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_5.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_5.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_16" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_4.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_4.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_15" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_3.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_3.JPG"
                 /></a>
               </div>
             </div>
@@ -57,22 +57,22 @@
             <div class="row photos">
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_14" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_2.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_2.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_18" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_6.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_6.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_19" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_7.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_7.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_20" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_8.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_8.JPG"
                 /></a>
               </div>
             </div>
@@ -80,22 +80,22 @@
             <div class="row photos">
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_21" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_9.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_9.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_22" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_10.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_10.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_13" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_1.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_1.JPG"
                 /></a>
               </div>
               <div class="col-lg-3 col-md-4 item">
                 <a href="#img_24" data-lightbox="photos"
-                  ><img class="img-fluid" src="../static/domek_srodek_12.jpg"
+                  ><img class="img-fluid" src="../static/domek_srodek_12.JPG"
                 /></a>
               </div>
             </div>
@@ -184,40 +184,40 @@
             /></a>
 
             <a href="#_8" class="lightbox trans" id="img_13"
-              ><img src="../static/domek_srodek_1.jpg"
+              ><img src="../static/domek_srodek_1.JPG"
             /></a>
             <a href="#_9" class="lightbox trans" id="img_14"
-              ><img src="../static/domek_srodek_2.jpg"
+              ><img src="../static/domek_srodek_2.JPG"
             /></a>
             <a href="#_10" class="lightbox trans" id="img_15"
-              ><img src="../static/domek_srodek_3.jpg"
+              ><img src="../static/domek_srodek_3.JPG"
             /></a>
             <a href="#_11" class="lightbox trans" id="img_16"
-              ><img src="../static/domek_srodek_4.jpg"
+              ><img src="../static/domek_srodek_4.JPG"
             /></a>
             <a href="#_8" class="lightbox trans" id="img_17"
-              ><img src="../static/domek_srodek_5.jpg"
+              ><img src="../static/domek_srodek_5.JPG"
             /></a>
             <a href="#_9" class="lightbox trans" id="img_18"
-              ><img src="../static/domek_srodek_6.jpg"
+              ><img src="../static/domek_srodek_6.JPG"
             /></a>
             <a href="#_10" class="lightbox trans" id="img_19"
-              ><img src="../static/domek_srodek_7.jpg"
+              ><img src="../static/domek_srodek_7.JPG"
             /></a>
             <a href="#_11" class="lightbox trans" id="img_20"
-              ><img src="../static/domek_srodek_8.jpg"
+              ><img src="../static/domek_srodek_8.JPG"
             /></a>
             <a href="#_9" class="lightbox trans" id="img_21"
-              ><img src="../static/domek_srodek_9.jpg"
+              ><img src="../static/domek_srodek_9.JPG"
             /></a>
             <a href="#_10" class="lightbox trans" id="img_22"
-              ><img src="../static/domek_srodek_10.jpg"
+              ><img src="../static/domek_srodek_10.JPG"
             /></a>
             <a href="#_11" class="lightbox trans" id="img_23"
-              ><img src="../static/domek_srodek_11.jpg"
+              ><img src="../static/domek_srodek_11.JPG"
             /></a>
             <a href="#_11" class="lightbox trans" id="img_24"
-              ><img src="../static/domek_srodek_12.jpg"
+              ><img src="../static/domek_srodek_12.JPG"
             /></a>
 
           </div>
