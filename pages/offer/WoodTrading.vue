@@ -111,7 +111,7 @@
     </div>
     <div class="row, myrow">
       <footer class="col the-footer">
-        &copy; 2022 Forest Industry S.A.: Handel drewnem tartacznym – świerk,
+        &copy; 2023 Forest Industry S.A.: Handel drewnem tartacznym – świerk,
         modrzew syberyjski inne <br />
         All rights reserved.
         <a

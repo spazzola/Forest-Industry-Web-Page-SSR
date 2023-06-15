@@ -1,7 +1,7 @@
 <template>
   <div class="row, myrow">
     <footer class="col the-footer">
-      &copy; 2022 Forest Industry S.A. All rights reserved.
+      &copy; 2023 Forest Industry S.A. All rights reserved.
       <a href="https://www.facebook.com/Forest-Industry-SA-108708038192828" target="_blank"><i class="fa fa-facebook-square" style="color: #4267B2;"></i></a>
       
     </footer>
