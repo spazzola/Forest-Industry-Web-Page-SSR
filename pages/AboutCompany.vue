@@ -17,7 +17,7 @@
         Dążymy do ciągłego rozwoju. Nie boimy się nowych wyzwań, ani
         innowacyjnych technologii. Dlatego w naszej ofercie znajdą Państwo
         strony www, dedykowane aplikacje internetowe, mobilne i desktopowe,
-        które sprostają najwyszym standardom. <br />
+        które sprostają najwyższym standardom. <br />
         <br />
       </div>
     </div>
