@@ -13,20 +13,20 @@
       </div>
 
       <div class="contactTile">
+        <h2>Dział handlowy</h2>
+        Tomasz Rubik <br />
+        tel.: +48 884 700 166 <br />
+        biuro@forestindustrysa.pl <br />
+        <br />
+      </div>
+
+      <!-- <div class="contactTile">
         <h2>Handel drewnem</h2>
         Bartek Witulski <br />
         tel.: +48 577 960 204 <br />
         biuro@forestindustrysa.pl <br />
         <br />
-      </div>
-
-      <div class="contactTile">
-        <h2>Księgowość</h2>
-        Bartosz Wisiński <br />
-        tel.: +48 505 605 469 <br />
-        biuro@forestindustrysa.pl <br />
-        <br />
-      </div>
+      </div> -->
 
       <div class="contactTile">
         <h2>Oprogramowania komputerowe</h2>
